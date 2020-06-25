@@ -34,4 +34,4 @@ element.setAttribute("id", "content");
 let hasID = element.hasAttribute("id");
 ```
 
-熟悉的味道，一样的配方，原生 DOM 一样的语法，无需新学习，使用简单
+熟悉的味道，一样的配方，和原生 DOM 一样的语法，无需新学习，使用简单。
